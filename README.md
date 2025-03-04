@@ -1,8 +1,7 @@
 ## 👋 Hello Friend, Wellington Cezar aqui... 👨‍💻
 ### 🤖 "Que a força do código esteja com você"!
 
-- 🧠 Eu atualmente estou estudando 👉 Desenvolvimento Web Full Stak na Kenzie Acadey Brasil
-  e Desenvolvimento Java Profissional com o professor Dr. Nelio Alves
+- 🧠 Java Full Stack Developer 👉 Confira meus projetos
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcrsants&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcrsants&layout=compact&theme=transparent)
 
